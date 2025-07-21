@@ -35,7 +35,7 @@ Live Sketcher is an interactive web application that transforms your live camera
   **Access Application:** Use the new Githack URL provided [Githack](https://raw.githack.com/dannz510/Live-sketch/refs/heads/main/live_sketch.html) to access live application.
 
 ## Giphy API Key
-The Giphy search feature requires an API key. Please ensure you replace the placeholder `Vpgm2IcVFYvOFj5Q68SNL1uIJcBZ2pMC` with your own valid Giphy API Key. You can obtain a free API key from [Giphy Developers](https://developers.giphy.com/). If the API key is missing or invalid, the Giphy search functionality will not work.
+The Giphy search feature requires an API key. Please ensure you replace the placeholder `API KEY` with your own valid Giphy API Key. You can obtain a free API key from [Giphy Developers](https://developers.giphy.com/). If the API key is missing or invalid, the Giphy search functionality will not work.
 
 ## Technologies Used
 * **React:** For building the user interface.
